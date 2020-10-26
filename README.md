@@ -1,6 +1,6 @@
 ## Configuration
 
-Make sure to add your own `MONGOURI` from your [mLab](http://mlab.com) database in `config/keys.js`.
+Make sure to add your own `MONGOURI` in `config/keys.js`.
 
 ```javascript
 module.exports = {
